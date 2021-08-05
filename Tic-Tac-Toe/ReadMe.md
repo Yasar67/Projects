@@ -13,7 +13,7 @@ This is a simple 1v1 tic-tac-toe game made using **python**.
 
 The positions in the board are as follows:
 
- 1|2|3        
+ 1|2|3
  -+-+-
  3|4|5 
  -+-+-
