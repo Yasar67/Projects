@@ -20,6 +20,6 @@ The positions in the board are as follows:
  6| 7| 8
  </pre>
  
- One player is 'X' and the other player is 'O'. Once it is your turn enter the position you want to put your respective symbol in.
+ One player is 'X' and the other player is 'O'. Once it is your turn, enter the position you want to put your respective symbol in.
  
  Enjoy! :)
